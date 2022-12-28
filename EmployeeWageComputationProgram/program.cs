@@ -7,4 +7,6 @@ namespace EmployeeWageComputationProblem
             Console.WriteLine("welcome message ");
         }
     }
+
 }
+
