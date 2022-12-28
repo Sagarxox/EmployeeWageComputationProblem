@@ -4,7 +4,7 @@ namespace EmployeeWageComputationProblem
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("welcome message ");
+            EmployeeWage.EmpWage();
         }
     }
 }
