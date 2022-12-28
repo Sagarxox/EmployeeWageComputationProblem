@@ -7,5 +7,6 @@ namespace EmployeeWageComputationProblem
             EmployeeWage.EmpWage();
         }
 
+
     }
 }
